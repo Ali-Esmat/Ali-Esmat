@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ali Esmat Ahmed
 
-I am a **software engineer** and a former **teaching assistant** at Cairo university. I am interested in working as a programming instructor, a software developer, or a game developer / designer. I have a solid background in programming, software design, and SDLC. 
+I am a **software engineer** and a former **teaching assistant** at Cairo university. I am interested in working as a programming instructor, a software developer, or a game developer / designer. I have a solid background in programming, software design, and SDLC. My journey is just beginning and I am very passionate about becoming a master in programming !
 
 ## 🌐 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/755521731585900739)
